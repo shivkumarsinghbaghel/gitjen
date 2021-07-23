@@ -1,2 +1,3 @@
-x=5
-print("Hi Shiv :",x)
+for i in range(10):
+ print("Hi Shiv :",i)
+print("done")
